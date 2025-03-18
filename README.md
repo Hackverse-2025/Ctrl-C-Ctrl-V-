@@ -42,7 +42,6 @@ Additionally, independent truck owners can list their vehicles, enabling busines
 - **React.js** (Planned for dynamic UI components)  
 
 ### **Backend**  
-- **Node.js & Express.js** – Server-side logic  
 - **MongoDB** – Database for storing user, truck, and delivery data  
 - **REST APIs** – Integration with third-party logistics services  
 
